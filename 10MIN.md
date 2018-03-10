@@ -2,16 +2,12 @@ pandas
 
 python
 
-import numpy as np import pandas as pd import os np.random.seed(123456)
-np.set\_printoptions(precision=4, suppress=True) import matplotlib \#
-matplotlib.style.use('default') pd.options.display.max\_rows = 15
-
-\#\#\#\# portions of this were borrowed from the \#\#\#\# Pandas
-cheatsheet \#\#\#\# created during the PyData Workshop-Sprint 2012
-\#\#\#\# Hannah Chen, Henry Chow, Eric Cox, Robert Mauriello
 
 10 Minutes to pandas
 ====================
+
+> 10分钟 Pnadas 体验
+
 
 This is a short introduction to pandas, geared mainly for new users. You
 can see more complex recipes in the <span
